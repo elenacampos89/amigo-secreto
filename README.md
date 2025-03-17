@@ -22,8 +22,7 @@ Permite a los usuarios ingresar una lista de nombres y seleccionar aleatoriament
 ## Ayuda 🛠️
 Si tienes preguntas o necesitas ayuda con este proyecto, puedes:  
 - 📖 **Revisar la documentación del código**.  
-- 📩 **Contactar al autor para obtener asiste![Uploading 1.png…]()
-ncia**.  
+- 📩 **Contactar al autor para obtener asistencia**.  
 
 ## Autores 👨‍💻👩‍💻
 - Elena Campos (su servilleta) - Desarrollador del proyecto.  
